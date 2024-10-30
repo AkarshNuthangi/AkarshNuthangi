@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AkarshNuthangi
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ... python
-- 💞️ I’m looking to collaborate on ...my friend
+- 💞️ I’m looking to collaborate on ...@nihaltirumani
 - 📫 How to reach me ...no need
 - 😄 Pronouns: ...cool,friendly, 😎 
 - ⚡ Fun fact: ...i like python coding
